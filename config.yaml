@@ -4,10 +4,11 @@
     git-repo: "https://github.com/d3fkon/temp22_repo"
     approval: 
       approved-by: "d3fkon"
-      approval-date: 1564465498904
+      approval-date: 1564465553751
   job: 
     job-name: "d3fkonxtemp22_repo"
     config: 
       pre-unit-test: "yes"
       post-unit-test: "no"
       dev: "no"
+      prod: "yes"
